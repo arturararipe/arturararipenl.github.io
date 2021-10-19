@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "Automobilista 2 Review"
-date: 2020-07-04 15:52:10 -0300
-categories: reviews
+title:  "Automobilista 2 Review"
+author: ara
+categories: [ Reviews, Racing, Simulators ]
+image: https://steamuserimages-a.akamaihd.net/ugc/1764816035723026905/81A467AC265231E57CA473EDEC1B8578AF9B538B/?imw=2048&imh=1152&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true
+tags: [reiza, racing, featured]
 ---
 “Reiza made a mistake”. That was the general consensus when they let us know that Automobilista 2 would be sporting the Madness Engine, from the Project C.A.R.S franchise. It was expected that they’d go for the new IsiMotor engine from rFactor 2, which is considered by many as the most accurate simulator out there in terms of raw physics, aerodynamics, ambient simulation (how the climate interferes with the track and car and so on). Yet they went with a rather questionable option, derived from Need for Speed Shift, a simcade at best, which also defines the pCARS franchise. Could it be that Reiza wanted to broaden their public and adopt an arcadey approach? Or maybe they would try and build a solid simulator out of it? After 30 hours of tinkering with all the content and under different weather conditions, I can safely say it’s the latter. And it doesn’t surprise me one bit.
 

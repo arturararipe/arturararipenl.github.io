@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "Red Dead Redemption 2 Review"
-date:  2020-11-28 07:18:28 -0300
-categories: reviews
+title:  "Red Dead Redemption 2 Review"
+author: ara
+categories: [ Reviews, Open World ]
+image: assets/images/rdr2.jpg
+tags: [GOTY, featured, sticky]
 ---
 Rockstar Games is known for setting benchmarks when it comes to their open world titles. Red Dead Redemption 2 is their best work to date, without a doubt. Unquestionably beautiful, vast and detailed. It breathes life. From the tiniest toad to the scary Grizzly bear, everything feels alive and convincing. It's an environment so well crafted that it makes you wonder whether it isn't a real world within your own computer. Non-playable characters have their own lives, with a routine that they follow religiously just like we do. Some do hard work, some drink all day, some mourn their loss(es). It's hard to believe it's just a video game. I remember when Skyrim had something similar and people couldn't believe how insanely realistic it was. Imagine that, but twice as convincing. That's RDR 2 for you. They feel so alive that you feel bad for killing them with your plethora of period-accurate weaponry.
 

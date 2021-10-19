@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "Cyberpunk 2077 Review"
-date: 2020-12-13 18:51:11 -0300
-categories: reviews
+title:  "Cyberpunk 2077 Review"
+author: ara
+categories: [ Reviews, Open World ]
+image: https://steamuserimages-a.akamaihd.net/ugc/1656726404779214430/B27B24E3F0412DAD8C8457A88D5B1118F965A63D/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false
+tags: [cdpr, flop, featured]
 ---
 Cyberpunk 2077 is not the game that people thought it would be. Which, generally, is a bad thing. I don't like when I'm misled. But was I really? Did CD Projekt Red ever lie about Cyberpunk? I mean, everything that was shown in gameplay footage and media kits was there in the final product. Everything. And this Déjà vu was a lot more frequent than usual because it was still fresh in my memory and the main storyline is rather short, taking me 37 hours of gameplay, along with a couple side missions and gigs. I was counting the days to play Cyberpunk and got extremely pissed when CDPR announced the last delay, because I would probably have to stop my marathon half way through because of Christmas (wouldn't be home). I would have just 10 days to play it, how awful! Can't say I wasn't surprised when I sensed the inevitable approach of the ending, in just 3 or 4 days of intense gameplay. It felt way too short, all things considered, but it felt right. Short games usually leave a bunch of loose ends, this one didn't. Closure, at last.
 
