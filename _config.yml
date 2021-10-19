@@ -22,7 +22,7 @@ authors:
     ara:
       name:           Ara
       site:           https://www.arturararipe.nl
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         assets/images/avatar1.jpg
       bio:            "A 24 year old Social Communicator that loves writing about games (mainly simulators), somewhat into music and IT, even more so if it’s hypervisor stuff or old x86 emulators, which explains the randomness of this blog. I also have a YouTube channel which is very much like this blog when it comes to how random it is: from your average game benchmark to tutorials on how to install UNIX System V"
       email:          arturararipe@protonmail.com
       twitter:        https://twitter.com/arturararipe
