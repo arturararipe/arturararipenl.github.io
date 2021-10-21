@@ -4,7 +4,7 @@ title: "God of War on PC and what it means to the industry as a whole"
 author: ara
 categories: [ Gaming, Thoughts]
 image: https://cdn.akamai.steamstatic.com/steam/apps/1593500/ss_93a3ca63aa2cd8c675bbb6430324ee3f2d44b845.1920x1080.jpg?t=1634748823
-tags: [ games, console, sony ]
+tags: [ games, console, sony, featured ]
 ---
 The flagship of console exclusivity is soon to be available for everyone, and it's a huge deal. Sony had already mentioned their intention to bring some of their titles to PC, but people didn't expect a GoW port. It has been, consistently, since the PlayStation 2 days, one of the main reasons why a PC gamer would also own a console. Certainly not the sole reason, but definitely a solid argument, along with The Last of Us (not on PC yet, but who knows what the future will bring?). 
 
