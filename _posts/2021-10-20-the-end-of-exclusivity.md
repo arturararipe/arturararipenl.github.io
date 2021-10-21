@@ -14,5 +14,5 @@ Microsoft did the same with their exclusives, such as Forza Horizon, Forza Motor
 
 With hardware prices going up like there's no tomorrow and overall console availability being rather low, and with the rather convenient advent of cloud gaming services, the end of "only on PlayStation" is a godsent. Gaming should be for everyone, independently of platform. 
 
-In the near future, one should be able to play The Last of Us on Xbox via browser which is in fact running cloud gaming service like GeForce Now, for example. Or even the other way around, like speeding through the vast mexican landscape of Forza Horizon 5 in your PlayStation 5, which is actually running xCloud via browser. How exciting is that?
+In the near future, one should be able to play The Last of Us on Xbox via browser which is in fact running cloud gaming service like GeForce Now, for example. Or even the other way around, like speeding through the vast mexican landscape of Forza Horizon 5 on your PlayStation 5, which is actually running xCloud via browser. How exciting is that?
 
