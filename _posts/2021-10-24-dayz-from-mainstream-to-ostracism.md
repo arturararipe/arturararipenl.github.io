@@ -2,7 +2,7 @@
 layout: post
 title: "DayZ: from mainstream to ostracism"
 author: ara
-categories: [ Opinions, Gaming, Survival]
+categories: [ Opinion, Gaming, Survival]
 image: https://steamuserimages-a.akamaihd.net/ugc/102854363206759406/7AD8958712706819D63FECACEB4874972CD65012/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false
 tags: [ survival, open world, zombies, flop, featured ]
 ---
