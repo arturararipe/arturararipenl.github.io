@@ -3,7 +3,7 @@ layout: post
 title: "Championship Manager 01/02: The game that refuses to die"
 author: ara
 categories: [ Reviews, Football, Manager, Classic ]
-image: https://images-na.ssl-images-amazon.com/images/I/91opbWHs4UL.jpg
+image: https://www.gamefront.com/storage/images/games/FKlfajiaIsi3CE4GwOTMtsaawYPQOdOCN0XCHgzG.jpeg
 tags: [manager, football, cm, cm0102, featured]
 ---
 It has been a good decade since I first heard about Championship Manager 01/02. Unlike most people, I didn’t grow up with Championship Manager or Football Manager being my first managerial experience on PC, and there’s a good reason for that: we had Brasfoot. “What the hell is Brasfoot?”, you might ask, understandably so. It’s the Brazilian equivalent of Elifoot, which is the “father of all managers”. Confusing, isn’t it? Worry not, everything will be explained in due time. Elifoot, although not popular anywhere else other than Brazil and Portugal, is (yes, it still exists!) a very simple football manager, which is simple, lightweight and you can go through several seasons in a day. The simplicity, ease of use, and low hardware demands made it very popular in Brazil because people couldn’t afford fast computers (even low-range stuff was prohibitively expensive back in the day). It didn’t take long until it became a cult title and everyone either had played it or at least heard of the game.
