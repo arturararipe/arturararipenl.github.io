@@ -3,7 +3,7 @@ layout: post
 title: "Stable Diffusion and the Democratization of AI Art"
 author: ara
 categories: [Opinions, Artificial Intelligence, Computing]
-image: assets\images\kitchen.jpg
+image: https://i.imgur.com/rI32uBg.jpg
 tags: [stable diffusion, stable diffusion art, stable diffusion and the democratization of ai art, ai image generator, best image generator, featured]
 ---
 It was a lovely early August night back in 2015 when I took my first Computer Information Systems class in university and heard for the first time about the imminent threat of AI-assisted software development which could compromise our future careers as programmers. It seemed far-fetched then and up until not long ago, when advanced Artificial Intelligence went from something that you would often read about in books and hear of in academic studies but never actually get to interact with to the multitude of intelligent chatbots, essays, and scripts written with the help of machine learning, and, more recently, full-blown text to image generation. I remember like it was yesterday: a set of 4, maybe 6, images of Seinfeld's George Costanza with an AK-47 rifle in a Twitter post with a link to "DALL-E 2", which later on became Craiyon because it was not the actual DALLE-2. Suffices it to say, love at first sight. Or love at the first output, should I say?
